@@ -1,2 +1,2 @@
 # jonaskniel.github.io
-My Website
+A website to test around with Github Pages
